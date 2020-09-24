@@ -1,0 +1,62 @@
+[
+ {
+ "id": 1,
+ "nome": "Ada Lovelace",
+ "descricao":"Diva da programação, já descrevia as operações lógicas de uma máquina mais de um século antes de existir o computador como entendemos hoje.", 
+ "leiaMais": "https://www.programaria.org/como-ada-lovelace-filha-de-lord-byron-se-tornou-primeira-programadora-mundo/"
+ },
+ {
+ "id": 2,
+ "nome": "Edith Clarke",
+ "descricao":"tornou-se a primeira mulher a conquistar um Mestrado no Departamento de Engenharia Elétrica e Ciência da Computação do MIT, tornando-se a primeira engenheira elétrica do EUA", 
+ "leiaMais": "https://medium.com/luiz-gustavo-martins/edith-clarke-o-pioneirismo-feminino-na-engenharia-el%C3%A9trica-7504156a5cae"
+ },
+ {
+ "id": 3, 
+ "nome": "Grace Hopper",
+ "descricao":"Uma das primeiras programadoras do computador Harvard Mark I em 1944, inventou o primeiro compilador para uma linguagem de programação e foi uma das pessoas que popularizou a ideia de linguagem de programação independente de máquina que levou ao desenvolvimento de COBOL", 
+ "leiaMais": "https://tecnoblog.net/meiobit/97634/grace-hopper-a-maior-de-todas-as-geeks/"
+ },
+ {
+ "id": 4,
+ "nome": "Dorothy Johnson Vaughan",
+ "descricao":"Nascida no estado do Missouri, Dorothy Vaughan formou-se em Matemática e ingressou na NACA, agência que viria a se tornar a NASA, em 1943. Especializou-se em computação e seis anos depois chefiou um grupo composto somente por mulheres afro-americanas formadas em matemática.", 
+ "leiaMais": "https://www.nasa.gov/content/dorothy-vaughan-biography"
+ },
+ {
+ "id": 5,
+ "nome": "Joan Clarke",
+ "descricao":"Foi uma criptoanalista e numismata inglesa, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas. Também foi amiga, confidente e ex-noiva de Alan Turing.", 
+ "leiaMais": "https://br.lifetimeplay.tv/noticias/joan-clarke-mulher-que-ajudou-decifrar-o-codigo-secreto-dos-nazistas"
+ },
+ {
+ "id": 6,
+ "nome": "Katherine Coleman Goble Johnson",
+ "descricao":"Cientista formada em física e matemática, Katherine Johnson fez história na corrida espacial americana: calculou a trajetória para o Projeto Mercúrio (primeiro projeto tripulado da NASA) e para o voo da Apollo 11 (que levou o homem à Lua).", 
+ "leiaMais": "https://www.nasa.gov/content/katherine-johnson-biography"
+ },
+ { 
+ "id": 7,
+ "nome": "Margaret Hamilton",
+ "descricao":"É uma cientista da computação, engenheira de sistemas e empresária estadunidense. Foi diretora da Divisão de Software no Laboratório de Instrumentação do MIT, que desenvolveu o programa de vôo usado no projeto Apollo 11, a primeira missão tripulada à Lua.", 
+ "leiaMais": "https://www.hypeness.com.br/2017/09/a-historia-de-margaret-hamilton-a-incrivel-mulher-que-foi-pioneira-na-engenharia-e-ajudou-a-nasa-a-aterrissar-na-lua/"
+ },
+ {
+ "id": 8,
+ "nome": "Radia Perlman",
+ "descricao":"É uma cientista da computação estadunidense. Sua invenção mais conhecida é Spanning Tree Protocol, fundamental para a operação de bridges na internet. Por conta disso, a projetista de software e engenheira de redes - apesar de não gostar do título - é referenciada como “mãe da internet”. ", 
+ "leiaMais": "https://engenharia360.com/mulheres-ciencia-radia-perlman/"
+ },
+ {
+ "id": 9,
+ "nome": "Carol Shaw",
+ "descricao":"Carol é conhecida como a primeira mulher designer de games. Trabalhou na Atari, Tandem Computers e Activision. Seu cargo oficial na Atari era de Engenheira de Software e ela atuou no projeto Atari Basic Reference Manual. Na Activision, Carol criou seu jogo mais famoso, o River Raid. Entre outros jogos feitos por Carol estão Polo (não lançado), Happy Trails, Video Checkers, 3-D Tic-Tac-Toe, Super Breakout, Othello eHarbor Escape.", 
+ "leiaMais": "https://canaltech.com.br/internet/mulheres-historicas-carol-shaw-a-primeira-desenvolvedora-de-jogos-eletronicos-75877/"
+ },
+ {
+ "id": 10,
+ "nome": "Cládia Maria Bauzer Medeiros",
+ "descricao":"Doutora em Ciência da Computação pela Universidade de Waterloo (Canadá), Cláudia foi presidente da Sociedade Brasileira de Computação de 2004 a 2007. Atualmente é professora da Unicamp, onde fundou o Laboratory of Information Systems (LIS), e professora visitante da Universidade Paris-Dauphine, onde 2015 conquistou o título de Dr Honoris Causa. Tem diversos reconhecimentos internacionais por suas pesquisas e por fomentar a participação de mulheres na área de TI.", 
+ "leiaMais": "http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4787278A9"
+ }
+]
